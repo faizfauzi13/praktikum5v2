@@ -75,5 +75,3 @@ lagi = ''
 ### Tampilan Program
 ![Gambar1](https://github.com/faizfauzi13/praktikum5v2/blob/main/Gambar/4.png)
 
-## Flowchart
-![Gambar1](pk5/5.5.jpg)
