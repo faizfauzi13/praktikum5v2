@@ -5,7 +5,7 @@
 - Tampilkan elemen ke - 3
 - Ambil nilai elemen ke - 2 sampai elemen ke - 4
 - Ambil elemen terakhir 
-![Gambar1](pk5/5.1.png)
+![Gambar1](1.png)
 ### Ubah elemen list:
 - Ubah elemen ke - 4 dengan nilai lainnya
 - Ubah elemen ke - 4 dengan elemen terakhir 
