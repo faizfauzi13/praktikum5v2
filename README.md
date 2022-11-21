@@ -5,17 +5,17 @@
 - Tampilkan elemen ke - 3
 - Ambil nilai elemen ke - 2 sampai elemen ke - 4
 - Ambil elemen terakhir 
-![Gambar1](1.png)
+![Gambar1](https://github.com/faizfauzi13/praktikum5v2/blob/main/Gambar/1.png)
 ### Ubah elemen list:
 - Ubah elemen ke - 4 dengan nilai lainnya
 - Ubah elemen ke - 4 dengan elemen terakhir 
-![Gambar1](pk5/5.2.png)
+![Gambar1](https://github.com/faizfauzi13/praktikum5v2/blob/main/Gambar/2.png)
 #### Tambah elemen list:
 - Ambil 2 bagian dari list pertama (A) dan jadikan list ke -2 (B)
 - Tambah list B dengan nilai string
 - Tambah list B dengan 3 nilai
 - Gabungkan list B dengan list A 
-![Gambar1](pk5/5.3.png)
+![Gambar1](https://github.com/faizfauzi13/praktikum5v2/blob/main/Gambar/3.png)
 ## Tugas Praktikum 5
 ### Buatlah program sederhana untuk menambahkan data kedalam sebuah list dengan rincian:
 - Program meminta memasukkan data sebanyak-banyaknya (menggunakan perulangan)
@@ -73,7 +73,7 @@ lagi = ''
 ```
 - Hasil dari program yang telah dibuat ditampilkan/diekspresikan dan akan jadi seperti ini ketika dijalankan:
 ### Tampilan Program
-![Gambar1](pk5/5.4.png)
+![Gambar1](https://github.com/faizfauzi13/praktikum5v2/blob/main/Gambar/4.png)
 
 ## Flowchart
 ![Gambar1](pk5/5.5.jpg)
